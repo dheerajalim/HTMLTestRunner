@@ -45,7 +45,7 @@ __version__ = "1.0"
 """
 Change History
 
-Version 0.8.3
+Version 1.0
 * Upgraded to support Python 3.5.1
 """
 
